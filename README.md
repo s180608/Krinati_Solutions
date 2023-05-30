@@ -1,6 +1,6 @@
 # Krinati_Solutions
 
-# Dating App Backend
+# Dating App Backend Match API
 This is the backend implementation for a dating app that matches users based on their hobbies. The backend is built using Node.js and Express.js.
 
 ## Getting Started
